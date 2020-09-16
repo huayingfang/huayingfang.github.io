@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huaying Fang"
+  name             : ""
   avatar           : "profile_huayingfang_20190206.png"
   bio              : # "I am a tenure-track associate professor of Academy of Multidisciplinary Studies in Capital Normal University. My research interests lie at the interdisciplinary area of bioinformatics, statistics and genetics, using statistical methods and computational tools to address important biological questions from genomic and biomedical data."
   location         : "Beijing, China"
