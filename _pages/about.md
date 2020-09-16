@@ -17,17 +17,17 @@ Tenure-track Associate Professor, Academy of Multidisciplinary Studies in Capita
 Professional Education
 ======
 BS, Wuhan University, Statistics (2011)
-
+<br/>
 PhD, Peking University, Probability and Statistics (2016)
 
 Contact Us
 ======
 Huaying Fang, PhD
-
+<br/>
 Academy of Multidisciplinary Studies
-
+<br/>
 Capital Normal University
-
+<br/>
 105 West Third Ring Road North, Haidian District, Beijing, 100048 China
-
+<br/>
 Email: huayingfang at hotmail.com
