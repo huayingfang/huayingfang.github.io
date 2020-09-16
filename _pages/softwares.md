@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /software/
+permalink: /softwares/
 author_profile: true
 redirect_from:
-  - /software
+  - /softwares
 ---
 
 * [HARE](https://github.com/tanglab/HARE): A machine learning algorithm to harmonize genetic ancestry and self-identified race/ethnicity in genome-wide association studies for large-scale multi-ethnici cohorts.
