@@ -7,13 +7,11 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
+### Education
 * 2016 Ph.D in Probability and Statistics, Peking University, Beijing, China
 * 2011 B.S. in Statistics, Wuhan University, Wuhan, China
 
-Research
-======
+### Research
 * 2016-2020: Postdoctoral Fellow
   * Stanford University
   * Supervisor: Professor Hua Tang
@@ -38,8 +36,7 @@ Research
   * Wuhan University
   * Supervisor: Professor Dingyou Liu
 
-Publications
-======
+### Publications
 1. Jiang L, Wang M, Lin S, Jian R, Li X, Chan J, Dong G, **Fang H**, Robinson A and Snyder M (2020). A Quantitative Proteome Map of the Human Body. Cell, 183:1-15.
 1. **Fang H**, Hui Q, Lynch J, Honerlaw J, Assimes TL, Huang J, Vujkovic M, Damrauer SM, Pyarajan S, Gaziano JM, DuVall SL, O’Donnell CJ, Cho K, Chang K-M, Wilson PWF, Tsao PS, the VA Million Veteran Program, Sun YV and Tang H (2019). Harmonizing Genetic Ancestry and Self-identified Race/Ethnicity in Genome-wide Association Studies. The American Journal of Human Genetics, 105: 763-772.
 1. Bick AG, Akwo E, Robinson-Cohen C, Lee K, Lynch J, Assimes TL, DuVall S, Edwards T, **Fang H**, Freiberg SM, Giri A, Huffman JE, Huang J, Hull L, Kember RL, Klarin D, Lee JS, Levin M, Miller DR, Natarajan P, Saleheen D, Shao Q, Sun YV, Tang H, Wilson O, Chang K-M, Cho K, Concato J, Gaziano JM, Kathiresan S, O’Donnell CJ, Rader DJ, Tsao PS, Wilson PW, Hung AM, Damrauer SM and on behalf of the VA Million Veteran Program (2019). Association of APOL1 Risk Alleles with Cardiovascular Disease in African Americans in the Million Veteran Program. Circulation, 140: 1031-1040.
@@ -53,14 +50,12 @@ Publications
 1. **Fang H**, Huang C, Zhao H and Deng M (2015). CCLasso: correlation inference for compositional data through Lasso. Bioinformatics, 31: 3172-3180.
 1. Chen J, Peng Z, Zhang R, Yang X, Tan B, **Fang H**, Liu C, Shi M, Ye Z, Zhang Y, Deng, M, Zhang X and Li C (2014). RNA editome in rhesus macaque shaped by purifying selection. PLoS Genetics, 10: e1004274.
 
-Presentations
-======
+### Presentations
 * 2017: ICSA2017 Applied Statistics Symposium, Chicago, IL, USA
 * 2017: CPH2017 Computational Precision Health Conference, San Francisco, CA, USA
 * 2015: ISB2015 International Conference on Systems Biology, Luoyang, China
 
-Teaching
-======
+### Teaching
 * Teaching Assistant, Stanford University
   * 2020 GENE 245: Statistical and Machine Learning Methods for Genomics
   * 2017 BIOS 259: Statistical Genetics of Complex Traits
