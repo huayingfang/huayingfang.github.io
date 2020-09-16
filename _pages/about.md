@@ -19,12 +19,8 @@ Ph.D, Peking University, Probability and Statistics (2016)
 B.S., Wuhan University, Statistics (2011)
 
 ## Contact
-Huaying Fang, PhD
-<br/>
-Academy of Multidisciplinary Studies
-<br/>
-Capital Normal University
-<br/>
-105 West Third Ring Road North, Haidian District, Beijing, 100048 China
-<br/>
-Email: huayingfang at hotmail.com
+Huaying Fang, PhD   
+Academy of Multidisciplinary Studies   
+Capital Normal University   
+105 West Third Ring Road North, Haidian District, Beijing, 100048 China   
+Email: huayingfang AT hotmail.com
