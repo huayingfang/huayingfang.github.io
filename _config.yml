@@ -84,7 +84,7 @@ author:
   avatar           : "profile_huayingfang_20190206.png"
   bio              : # "I am a tenure-track associate professor of Academy of Multidisciplinary Studies in Capital Normal University. My research interests lie at the interdisciplinary area of bioinformatics, statistics and genetics, using statistical methods and computational tools to address important biological questions from genomic and biomedical data."
   location         : "Beijing, China"
-  employer         : "Capital Normal University"
+  employer         : #"Capital Normal University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28Fang%2C+Huaying%5BAuthor%5D%29+AND+%28%28Deng%2C+Minghua%5BAuthor%5D%29+OR+%28Stanford+University%5BAffiliation%5D%29+OR+%28Capital+Normal+University%5BAffiliation%5D%29%29&sort=date&size=200"
   googlescholar    : "https://scholar.google.com/citations?user=ovQT-zEAAAAJ&hl=en"
   email            : "huayingfang@hotmail.com"
